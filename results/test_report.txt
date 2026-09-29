@@ -1,0 +1,10 @@
+Best model: SVM_RBF
+
+              precision    recall  f1-score   support
+
+       human      0.856     0.790     0.822       400
+          ai      0.805     0.868     0.835       400
+
+    accuracy                          0.829       800
+   macro avg      0.831     0.829     0.828       800
+weighted avg      0.831     0.829     0.828       800
