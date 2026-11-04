@@ -41,7 +41,7 @@ The experiment below used a balanced random sample of 4,000 texts from the match
 
 | Model | CV F1 | CV Precision | CV Recall |
 |---|---|---|---|
-| Logistic Regression | _fill from results/cv_results.csv_ | | |
+| Logistic Regression | 0.780 ± 0.009 | 0.770 | 0.791 |
 | Random Forest | 0.838 ± 0.009 | 0.831 | 0.845 |
 | Gradient Boosting | 0.835 ± 0.008 | 0.824 | 0.847 |
 | **RBF-SVM (selected)** | **0.840 ± 0.009** | 0.836 | 0.844 |
